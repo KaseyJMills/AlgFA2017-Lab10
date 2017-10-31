@@ -3,7 +3,7 @@
  *
  *CS 2003 Lab 10
  *@author Kasey Mills
- *
+ *Finds the largest palindrome from the series of numbers 1000-9999 
  */
 
 public class numberPalindromes {
